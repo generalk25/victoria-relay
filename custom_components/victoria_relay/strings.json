@@ -1,0 +1,1 @@
+{"config":{"step":{"user":{"data":{"relay_url":"Relay endpoint URL","timeout":"Wait for Victoria (seconds)"},"description":"Point the relay at the endpoint that forwards sentences to Victoria.","title":"Victoria Relay"}}}}
