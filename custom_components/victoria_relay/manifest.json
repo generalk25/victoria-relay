@@ -1,1 +1,1 @@
-{"codeowners":["@generalk25"],"config_flow":true,"dependencies":["conversation"],"documentation":"https://github.com/generalk25/victoria-relay","domain":"victoria_relay","iot_class":"local_push","name":"Victoria Relay","requirements":[],"version":"0.1.0"}
+{"codeowners":["@generalk25"],"config_flow":true,"dependencies":["conversation"],"documentation":"https://github.com/generalk25/victoria-relay","domain":"victoria_relay","iot_class":"local_push","name":"Victoria Relay","requirements":[],"version":"0.1.1"}
